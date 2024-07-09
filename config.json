@@ -1,0 +1,4 @@
+{
+    "jwtSecret":"Imma secret and im proud of it !! I Love being a secret, my mommy says I'm the best secret there is",
+    "jwtExpiration":"1h"
+}
